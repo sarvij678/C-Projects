@@ -1,0 +1,16 @@
+# Executable files
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# Visual Studio Code settings
+.vscode/
+
+# User data file
+users.txt
